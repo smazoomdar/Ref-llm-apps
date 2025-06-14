@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+python-dotenv
+streamlit
+langchain-together
+composio-phidata
+requests
+# Adding openai as a fallback/default LLM if TogetherAI integration is not fully fleshed out or user prefers it
+openai

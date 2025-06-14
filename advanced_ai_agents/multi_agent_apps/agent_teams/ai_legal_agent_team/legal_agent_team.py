@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use legal_agent_team_crewai.py for the CrewAI-based
+# # implementation of the AI Legal Analysis Team.
+# ##################################################################################################
+
 import streamlit as st
 from agno.agent import Agent
 from agno.knowledge.pdf import PDFKnowledgeBase, PDFReader

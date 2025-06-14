@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use design_agent_team_crewai.py for the CrewAI-based
+# # implementation of the AI Multimodal Design Analysis Team.
+# ##################################################################################################
+
 from agno.agent import Agent
 from agno.models.google import Gemini
 from agno.media import Image as AgnoImage

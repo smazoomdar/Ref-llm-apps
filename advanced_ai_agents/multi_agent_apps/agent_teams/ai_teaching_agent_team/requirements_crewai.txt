@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+python-dotenv
+openai
+streamlit
+composio-phidata
+serpapi-python-client

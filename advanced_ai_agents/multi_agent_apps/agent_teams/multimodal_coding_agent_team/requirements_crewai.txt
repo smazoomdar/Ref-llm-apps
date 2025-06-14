@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+python-dotenv
+openai
+google-generativeai
+streamlit
+e2b-code-interpreter
+Pillow
