@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+python-dotenv
+openai
+streamlit
+firecrawl-py
+exa-py
+requests
+pandas

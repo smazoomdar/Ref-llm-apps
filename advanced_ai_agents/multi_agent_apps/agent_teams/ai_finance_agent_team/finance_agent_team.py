@@ -1,3 +1,8 @@
+# ##############################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use finance_agent_team_crewai.py instead.
+# ##############################################################################
+
 from agno.agent import Agent
 from agno.models.openai import OpenAIChat
 from agno.storage.agent.sqlite import SqliteAgentStorage

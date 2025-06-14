@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use competitor_agent_team_crewai.py for the CrewAI-based
+# # implementation of the Competitor Intelligence Agent Team.
+# ##################################################################################################
+
 import streamlit as st
 from exa_py import Exa
 from agno.agent import Agent
