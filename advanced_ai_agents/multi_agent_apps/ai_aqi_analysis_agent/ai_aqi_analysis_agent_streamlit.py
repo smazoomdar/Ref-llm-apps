@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use ai_aqi_analysis_agent_streamlit_crewai.py for the CrewAI-based
+# # implementation of the AI AQI Analysis Agent with a Streamlit interface.
+# ##################################################################################################
+
 from typing import Dict, Optional
 from dataclasses import dataclass
 from pydantic import BaseModel, Field

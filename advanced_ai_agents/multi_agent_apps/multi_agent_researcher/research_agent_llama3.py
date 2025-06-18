@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use research_agent_llama3_crewai.py for the CrewAI-based
+# # implementation of the Hacker News Research Agent Team using Llama3 with Ollama.
+# ##################################################################################################
+
 # Import the required libraries
 import streamlit as st
 from agno.agent import Agent

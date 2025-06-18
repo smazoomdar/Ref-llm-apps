@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use teaching_agent_team_crewai.py for the CrewAI-based
+# # implementation of the AI Teaching Agent Team.
+# ##################################################################################################
+
 import streamlit as st
 from agno.agent import Agent, RunResponse
 from agno.models.openai import OpenAIChat

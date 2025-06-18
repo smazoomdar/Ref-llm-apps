@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use product_launch_intelligence_agent_crewai.py for the CrewAI-based
+# # implementation of the Product Launch Intelligence Agent.
+# ##################################################################################################
+
 import streamlit as st
 from agno.agent import Agent
 from agno.models.openai import OpenAIChat

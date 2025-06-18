@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use app_crewai.py for the CrewAI-based
+# # implementation of the AI Travel Planner.
+# ##################################################################################################
+
 import asyncio
 import os
 

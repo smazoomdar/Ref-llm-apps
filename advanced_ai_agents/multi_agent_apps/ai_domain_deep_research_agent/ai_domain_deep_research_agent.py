@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use ai_domain_deep_research_agent_crewai.py for the CrewAI-based
+# # implementation of the AI Domain Deep Research Agent.
+# ##################################################################################################
+
 import os
 import asyncio
 import streamlit as st

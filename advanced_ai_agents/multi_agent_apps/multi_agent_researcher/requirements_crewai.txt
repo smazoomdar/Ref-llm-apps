@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+python-dotenv
+openai
+streamlit
+# The HackerNewsSearchTool in crewai_tools might use a specific library like 'requests' or 'hackernews-api'.
+# Assuming crewai_tools handles its own sub-dependencies for HackerNewsSearchTool.
+# If specific issues arise, 'hackernews-api' or 'beautifulsoup4' (if it scrapes) might be needed.
+# For now, relying on crewai_tools to bundle what it needs for HackerNewsSearchTool.
+requests # Often a good general dependency for tools that make web calls.

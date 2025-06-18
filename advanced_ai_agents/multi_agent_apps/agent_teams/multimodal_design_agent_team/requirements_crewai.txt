@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+python-dotenv
+google-generativeai
+streamlit
+Pillow
+duckduckgo-search
+serpapi-python-client # Added in case user has SerpAPI key, otherwise duckduckgo is fallback.

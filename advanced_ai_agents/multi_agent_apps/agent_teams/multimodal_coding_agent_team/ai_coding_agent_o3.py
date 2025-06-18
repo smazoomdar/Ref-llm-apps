@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use ai_coding_agent_o3_crewai.py for the CrewAI-based
+# # implementation of the AI Multimodal Coding Agent Team.
+# ##################################################################################################
+
 from typing import Optional, Dict, Any
 import streamlit as st
 from agno.agent import Agent, RunResponse

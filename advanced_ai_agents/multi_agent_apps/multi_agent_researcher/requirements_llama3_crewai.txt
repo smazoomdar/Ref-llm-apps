@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+python-dotenv
+streamlit
+ollama # Python client for Ollama, used by crewai.llms.Ollama
+requests # Often a good general dependency for tools that make web calls.

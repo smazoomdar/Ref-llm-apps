@@ -1,0 +1,17 @@
+crewai
+crewai-tools
+python-dotenv
+streamlit
+langchain
+langchain-community
+langchain-ollama
+qdrant-client
+pypdf
+ollama
+# ollama is the Python client for Ollama, langchain-ollama provides LangChain integrations.
+# Depending on how Ollama LLM is used by CrewAI (direct client vs LangChain integration), one or both might be needed.
+# CrewAI's Ollama llm likely uses the `ollama` package.
+# `langchain-ollama` is good for `OllamaEmbeddings` and `OllamaLLM` if used directly with LangChain.
+# For safety, including both if distinct. If `langchain-ollama` includes `ollama`, then just `langchain-ollama`.
+# Based on current usage (OllamaEmbeddings, and CrewAI's Ollama wrapper), both seem relevant.
+# crewai[ollama] might pull in the right things too. For now, explicit.

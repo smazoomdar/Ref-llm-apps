@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use research_agent_crewai.py for the CrewAI-based
+# # implementation of the Hacker News Research Agent Team.
+# ##################################################################################################
+
 # Import the required libraries
 import streamlit as st
 from agno.agent import Agent

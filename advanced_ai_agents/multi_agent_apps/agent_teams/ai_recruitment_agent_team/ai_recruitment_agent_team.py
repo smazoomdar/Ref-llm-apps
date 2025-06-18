@@ -1,3 +1,9 @@
+# ##################################################################################################
+# # DEPRECATION NOTE:
+# # This file is deprecated. Please use ai_recruitment_agent_crewai.py for the CrewAI-based
+# # implementation of the AI Recruitment Agent Team.
+# ##################################################################################################
+
 from typing import Literal, Tuple, Dict, Optional
 import os
 import time
